@@ -4,7 +4,7 @@ I am a Third year btech student who is aspiring to be a software engineer. I foc
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alen-shibu321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-shibu321/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919207897400)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/_.callme_._._alen._/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webwizlab@gmail.com)
