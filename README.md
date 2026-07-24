@@ -1,5 +1,5 @@
 # 😁 Wanna Know About Me:
-I am a Third year btech student who is aspiring to be a software engineer. I focus in MERN Stack.<br>My best project yet is a chat application named Echo<br>More importantly i am having fun ;)
+I am a Third year btech CS student who is aspiring to be a software engineer. I focus in MERN Stack.<br>My best project yet is a chat application named Echo<br>More importantly i am having fun ;)
 
 
 ## 🌐 Socials:
