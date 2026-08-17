@@ -17,12 +17,12 @@ I am a Third year btech CS student who is aspiring to be a software engineer. I 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Alen_Shibu_404?theme=dark&font=Baloo&ext=heatmap)
 
 ### 🎯 Current Goal
-- Complete Blind 75
+- Complete Neetcode 150
 - Solve at least 2 problems every day
 
 ### 📚 Progress
-- ✅ Blind 75: 15/75
-- 🚀 NeetCode 150: 19/150
+- ✅ Blind 75: 75/75
+- 🚀 NeetCode 150: 84/150
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
