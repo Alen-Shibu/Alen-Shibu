@@ -14,7 +14,6 @@ I am a Third year btech CS student who is aspiring to be a software engineer. I 
 
 # 🏆 Competitive Programming
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Alen_Shibu_404?theme=dark&font=Baloo&ext=heatmap)
 
 ### 🎯 Current Goal
 - Complete Neetcode 150
